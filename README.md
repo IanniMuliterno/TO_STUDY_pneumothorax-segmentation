@@ -19,6 +19,8 @@ Presentation with short explanation: https://yadi.sk/i/oDYnpvMhqi8a7w
 
 Competition: https://kaggle.com/c/siim-acr-pneumothorax-segmentation
 
+discussion : https://www.kaggle.com/c/siim-acr-pneumothorax-segmentation/discussion/107824#latest-628845
+
 ## Model Zoo
 - AlbuNet (resnet34) from [\[ternausnets\]](https://github.com/ternaus/TernausNet)
 - Resnet50 from [\[selim_sef SpaceNet 4\]](https://github.com/SpaceNetChallenge/SpaceNet_Off_Nadir_Solutions/tree/master/selim_sef/zoo)
